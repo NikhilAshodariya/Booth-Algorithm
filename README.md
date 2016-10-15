@@ -1,2 +1,2 @@
-# Booth-Algorithm
-This is the booth algorithm for multiplication
+# C++ codes
+This is repo contains all the codes in c++ language
